@@ -1,6 +1,6 @@
 # ゲームプログラム論
-
-## 課題
-1. 本リポジトリをforkして修正を行い、プルリクエストを送ってください。
-2. 下記フォームからアカウント名を教えてください。
-https://docs.google.com/forms/d/e/1FAIpQLSdovOaDBTeqhMf5vUIacd4In7ye3bYo3-TnXtS9EiJMOPmSbw/viewform?usp=sf_link
+アカウントが把握されていないことを考慮して
+写真を撮っていたのでURLを入力して
+いまさらですが提出します
+最終課題おそらく提出できません
+申し訳ありません
